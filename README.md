@@ -1,29 +1,45 @@
-- 👋 Hi, I’m Jax @acejrafael.
-Project and Business Analyst || Marketing Specialist, MBA || Python Programmer, PCEP || Legal and Medical Interpreter || Passionate Learner ||
+# Hi, I'm Jacques (Jax) 👋
 
-- 👀 I’m interested in and am new to software engineering, but I hope to learn a lot and grow starting with Python.
+**Project Manager & Marketing Strategist | PMP | PMI-ACP | MBA**
 
-- 🌱 In 2022, I earned an MBA.
-I have been certified in Project Management (CAPM) since 2018, in Python Programming (PCEP) in 2023, and am actively pursuing a certification in Business Analysis (CCBA).
-I have been a straight-A student and am passionate about learning new frameworks and methodologies.
-Thanks to this training and 4 years of experience in business projects, I solve business problems in analysis, marketing, and management activities.
+I manage and deliver complex digital projects at [Digital Delane](https://digitaldelane.com), an LA-based full-service digital marketing agency. I bring structured project management (PMBOK, Agile/Scrum) and data-driven marketing strategy to every engagement.
 
-- 💞️ I’m looking to collaborate on new projects using Python, Business Analysis, or Marketing.
-I am Curious, detail-oriented, and highly coachable, I am always willing to travel or relocate if necessary.
-I use many tools, techniques, applications, and software products to get the job done.
-What matters is your business needs, so I am always open to negotiations. I guarantee quality, confidential, and ethical work.
+## What I Do
 
-- 💻 I deliver value-driven results every month using Agile Scrum. That means I appreciate feedback and open conversations with my teams.
-Additionally, I offer translation and interpretation services to different communities and stakeholders, specializing in business, legal, and medical terms.
-Although English is my preferred language, I also speak Haitian Creole, French, and Spanish fluently.
+📈 **Digital Project Management** — 60+ campaigns delivered for 40+ brands. End-to-end execution of marketing campaigns, website launches, app promotions, and brand launches using Agile/Scrum and PMBOK frameworks.
 
-- 📫 How to reach me:
-Through the GitHub platform: github.com/acejrafael/
-Through LinkedIn: linkedin.com/in/jacques-wainright/
+⚙️ **CRM & Marketing Automation** — GoHighLevel, HubSpot, Salesforce, Constant Contact. Zapier/Pabbly integrations and secure API configuration. Recently built an AI-powered CRM system that reached 25K contacts in Month 1 and 4x'd support team capacity.
 
-Let's talk about the next steps. I look forward to working with you.
+📊 **Performance Marketing** — Google Ads, Meta Ads, LinkedIn Ads. $60K+ in managed ad budgets. Analytics via Google Analytics and Power BI.
 
-<!---
-acejrafael/acejrafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 **AI-Enhanced PM** — PMI-certified in Cognitive PM in AI (CPMAI), GenAI for PMs, and Prompt Engineering for PMs.
+
+## Tech & Tools
+
+**PM Tools:** ClickUp · Jira · Asana · Monday · Nifty · Trello · Confluence · MS Project  
+**CRM & Automation:** GoHighLevel · HubSpot · Salesforce · Constant Contact · Zapier · Pabbly  
+**Marketing:** Google Ads · Meta Ads · LinkedIn Ads · Semrush  
+**Analytics:** Google Analytics · Power BI · Tableau · SQL  
+**Web:** WordPress · Shopify · Squarespace · Wix  
+**Design:** Adobe Creative Suite · Canva  
+**Languages:** Python (PCEP Certified)
+
+## Certifications
+
+- 🏅 **PMP®** — Project Management Institute (Active through May 2028)
+- 🏅 **PMI-ACP®** — PMI Agile Certified Practitioner (Active through Nov 2028)
+- 🏅 **Meta Certified Business Marketing Strategy** — Meta
+- 🏅 **Six Sigma Black Belt** — International Six Sigma Institute
+- 💻 **Google Project Management Professional Certificate (v.3)** — Google
+- 💻 **Google AI Essentials** · **Google Analytics Certified**
+- 🤖 **5 PMI AI/GenAI Credentials** — CPMAI, Disciplined Agile, GenAI, Prompt Engineering
+- 📚 **21+ HubSpot Certs** · **3+ ClickUp Certs** · **4+ Atlassian Certs** · **5+ Microsoft Certs**
+
+## Languages
+
+🌐 English · French · Haitian Creole (Native) | Spanish (Professional)
+
+## Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jacques-wainright/)
+- 🏢 [Digital Delane](https://digitaldelane.com)
