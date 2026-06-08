@@ -1,4 +1,4 @@
-# Hi, I'm Jacques Rafael Wainright (Jax)
+# Hi, I'm Jacques R. Wainright (Jax)
 
 **AI-enabled digital operator | Chief Marketing Officer | Digital Project Manager | MBA | PMP | PMI-ACP**
 
