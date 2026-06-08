@@ -1,45 +1,54 @@
-# Hi, I'm Jacques (Jax) 👋
+# Hi, I'm Jacques R. Wainright (Jax)
 
-**Project Manager & Marketing Strategist | PMP | PMI-ACP | MBA**
+**AI-enabled digital operator | Chief Marketing Officer | Digital Project Manager | MBA | PMP | PMI-ACP**
 
-I manage and deliver complex digital projects at [Digital Delane](https://digitaldelane.com), an LA-based full-service digital marketing agency. I bring structured project management (PMBOK, Agile/Scrum) and data-driven marketing strategy to every engagement.
+I connect project delivery, marketing management, CRM automation, and AI-assisted execution. My work is usually practical: scopes, workflows, dashboards, websites, automations, documentation, and systems that help teams move faster without losing human oversight.
 
 ## What I Do
 
-📈 **Digital Project Management** — 60+ campaigns delivered for 40+ brands. End-to-end execution of marketing campaigns, website launches, app promotions, and brand launches using Agile/Scrum and PMBOK frameworks.
+**Digital Project Management**  
+60+ campaigns delivered or supported across 40+ brands, including campaign execution, website launches, app promotions, reporting cycles, QA routines, and stakeholder follow-up.
 
-⚙️ **CRM & Marketing Automation** — GoHighLevel, HubSpot, Salesforce, Constant Contact. Zapier/Pabbly integrations and secure API configuration. Recently built an AI-powered CRM system that reached 25K contacts in Month 1 and 4x'd support team capacity.
+**CRM & Marketing Automation**  
+GoHighLevel, HubSpot, Salesforce, Constant Contact, Zapier, Make, n8n, Pabbly, API/webhook handoffs, AI agents, lifecycle workflows, and appointment/reputation systems.
 
-📊 **Performance Marketing** — Google Ads, Meta Ads, LinkedIn Ads. $60K+ in managed ad budgets. Analytics via Google Analytics and Power BI.
+**AI-Enabled Workflow Building**  
+Hands-on with Claude Code, Codex, Gemini CLI, terminals, Cursor, VS Code, Antigravity, and open-source/local AI models for documentation, coding assistance, QA, and workflow orchestration.
 
-🤖 **AI-Enhanced PM** — PMI-certified in Cognitive PM in AI (CPMAI), GenAI for PMs, and Prompt Engineering for PMs.
+**Marketing Management**  
+Campaign strategy, paid media coordination, SEO/content workflows, social calendars, client reporting, analytics summaries, and funnel recommendations.
+
+## Selected Impact
+
+- 60+ campaigns delivered or supported across 40+ brands
+- $60K+ in managed or coordinated ad budgets
+- 25K contacts reached in one month through CRM automation and AI-agent workflows
+- 4x support-capacity lift and 8-9 demos/day supported through automated workflows
 
 ## Tech & Tools
 
-**PM Tools:** ClickUp · Jira · Asana · Monday · Nifty · Trello · Confluence · MS Project  
-**CRM & Automation:** GoHighLevel · HubSpot · Salesforce · Constant Contact · Zapier · Pabbly  
-**Marketing:** Google Ads · Meta Ads · LinkedIn Ads · Semrush  
-**Analytics:** Google Analytics · Power BI · Tableau · SQL  
-**Web:** WordPress · Shopify · Squarespace · Wix  
-**Design:** Adobe Creative Suite · Canva  
-**Languages:** Python (PCEP Certified)
+**AI / Builder Tools:** Claude Code, Codex, Gemini CLI, Cursor, VS Code, Antigravity, terminals, open-source AI models  
+**CRM / Automation:** GoHighLevel, HubSpot, Salesforce, Constant Contact, Zapier, Make, n8n, Pabbly, APIs/webhooks  
+**Project Tools:** ClickUp, Jira, Asana, Monday, Nifty, Trello, Confluence, MS Project  
+**Marketing / Analytics:** Google Ads, Meta Ads, LinkedIn Ads, Semrush, Google Analytics, Power BI, Tableau, SQL  
+**Web / Design:** WordPress, Shopify, Squarespace, Wix, HTML/CSS, Canva, Adobe Creative Suite  
+**Languages:** English, French, Haitian Creole, Spanish
 
 ## Certifications
 
-- 🏅 **PMP®** — Project Management Institute (Active through May 2028)
-- 🏅 **PMI-ACP®** — PMI Agile Certified Practitioner (Active through Nov 2028)
-- 🏅 **Meta Certified Business Marketing Strategy** — Meta
-- 🏅 **Six Sigma Black Belt** — International Six Sigma Institute
-- 💻 **Google Project Management Professional Certificate (v.3)** — Google
-- 💻 **Google AI Essentials** · **Google Analytics Certified**
-- 🤖 **5 PMI AI/GenAI Credentials** — CPMAI, Disciplined Agile, GenAI, Prompt Engineering
-- 📚 **21+ HubSpot Certs** · **3+ ClickUp Certs** · **4+ Atlassian Certs** · **5+ Microsoft Certs**
-
-## Languages
-
-🌐 English · French · Haitian Creole (Native) | Spanish (Professional)
+- PMP - Project Management Professional
+- PMI-ACP - Agile Certified Practitioner
+- MBA - University of the People
+- Meta Certified Business Marketing Strategy
+- Google Project Management Professional Certificate
+- Google Digital Marketing and E-Commerce Certificate
+- Google Analytics Certified
+- PCEP Certified Entry-Level Python Programmer
+- Six Sigma Black Belt
 
 ## Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jacques-wainright/)
-- 🏢 [Digital Delane](https://digitaldelane.com)
+- Portfolio: https://acejrafael.github.io
+- LinkedIn: https://www.linkedin.com/in/jacques-wainright/
+- Upwork: https://www.upwork.com/freelancers/~010e315749195848c3?mp_source=share
+- Fiverr: https://fr.fiverr.com/s/ljpqglR
